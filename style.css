@@ -28,7 +28,7 @@ video:after {
 
 /*Navbar*/
 .navhover:hover {
-    background-color: #d9a282 !important;
+    background: rgba(255, 255, 255, 0.05);
     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
     backdrop-filter: blur(8.5px);
     /* -webkit-backdrop-filter: blur(8.5px);*/
@@ -70,7 +70,7 @@ video:after {
 }
 
 .hov:hover{
-    background-color:#d9a282 !important;
+    background-color: #d9a282 !important;
     color:#fff !important;
     text-shadow: none !important;
     box-sizing: border-box !important;
