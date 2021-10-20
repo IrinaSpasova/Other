@@ -38,7 +38,7 @@
 
 > &#x1F34F; [Работни файлове](https://drive.google.com/drive/u/0/folders/1JA5rbdHkp2x8VuZN6jlIzKRHPnncGGYh)<br>
 > &#x1F352; Шрифтове<br>
-> &#x1F353; Снимки<br>
+> &#x1F353; [Снимки](https://docs.google.com/document/d/1fcksI-upYXEgZEeC0Ru4wPZ_oBFn8mBcSFAYpVDl_m4/edit)<br>
 >&#x1F514; Срещи на екипа: 
 
 ###### обратно в [съдържанието](https://github.com/IrinaSpasova/Publishing-Placeholder/blob/main/README.md#%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
