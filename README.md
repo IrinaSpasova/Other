@@ -34,7 +34,7 @@
 
 ## Допълнителна информация
 
-> &#x1F34F; Място/Файл<br>
+> &#x1F34F; [Работни файлове](https://drive.google.com/drive/u/0/folders/1JA5rbdHkp2x8VuZN6jlIzKRHPnncGGYh)<br>
 > &#x1F352; Място/Файл<br>
 > &#x1F353; Място/Файл<br>
 >&#x1F514; Срещи на екипа: 
