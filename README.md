@@ -19,7 +19,7 @@
 > &#x1F4D8; [Onboarding](https://docs.google.com/document/d/1aRMfnVBzc4xd3wV3-B_jsx3ykiBvmqFO5VhnafRH55o/edit)<br>
 >##### Общ поглед върху работата по проекта и много допълнителна полезна информация. 
 > &#x1F4D9; [Протоколи от срещите](https://drive.google.com/drive/u/0/folders/1No71LVapl78v2_md9u6vcmWArCJ3UApb)<br>
->##### Ако сте пропуснали някоя от срещите- тук може да намерите информация за взетите решения.
+>##### Тук може да намерите информация за взетите решения, ако сте пропуснали някоя от срещите.
 
 ###### обратно в [съдържанието](https://github.com/IrinaSpasova/Publishing-Placeholder/blob/main/README.md#%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 
