@@ -25,20 +25,20 @@
 
 ## Работна среда 
 
-> &#x1F4CB; [Фигма](https://www.figma.com/file/MmvFKzUv6yE5U2wrOpWtwS/Podkrepi.bg?node-id=0%3A7243)<br>
+>&#x1F4CB; [Фигма](https://www.figma.com/file/MmvFKzUv6yE5U2wrOpWtwS/Podkrepi.bg?node-id=0%3A7243)<br>
 >##### Място за творчество. С удоволствие ще обсъдим всякакви съвети и идеи.
-> &#x1F4C8; [Зенхъб](https://app.zenhub.com/workspaces/design-61667129a41297002437fb37/board?repos=393660793)<br>
+>&#x1F4C8; [Зенхъб](https://app.zenhub.com/workspaces/design-61667129a41297002437fb37/board?repos=393660793)<br>
 >##### Тук разпределяме задачите и следим етапите им на изпълнение.
-> &#x1F4CC; Дискорд<br>
+>&#x1F4CC; Дискорд<br>
 >##### Работни и не само разговори.
 
 ###### обратно в [съдържанието](https://github.com/IrinaSpasova/Publishing-Placeholder/blob/main/README.md#%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 
 ## Допълнителна информация
 
-> &#x1F4C2; [Работни файлове](https://drive.google.com/drive/u/0/folders/1JA5rbdHkp2x8VuZN6jlIzKRHPnncGGYh)<br>
-> &#x1F4C3; Шрифтове<br>
-> &#x1F3A8; [Снимки](https://docs.google.com/document/d/1fcksI-upYXEgZEeC0Ru4wPZ_oBFn8mBcSFAYpVDl_m4/edit)<br>
+>&#x1F4C2; [Работни файлове](https://drive.google.com/drive/u/0/folders/1JA5rbdHkp2x8VuZN6jlIzKRHPnncGGYh)<br>
+>&#x1F4C3; Шрифтове<br>
+>&#x1F3A8; [Снимки](https://docs.google.com/document/d/1fcksI-upYXEgZEeC0Ru4wPZ_oBFn8mBcSFAYpVDl_m4/edit)<br>
 >&#x1F4C5; Срещи на екипа: 
 
 ###### обратно в [съдържанието](https://github.com/IrinaSpasova/Publishing-Placeholder/blob/main/README.md#%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
