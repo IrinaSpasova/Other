@@ -7,13 +7,13 @@
 
 ## Съдържание:
 
->1. [Ръководства](https://github.com/IrinaSpasova/Publishing-Placeholder#%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0)<br>
->2. [Работна среда](https://github.com/IrinaSpasova/Publishing-Placeholder#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B0-%D1%81%D1%80%D0%B5%D0%B4%D0%B0)<br>
->3. [Допълнителна информация](https://github.com/IrinaSpasova/Publishing-Placeholder#%D0%B4%D0%BE%D0%BF%D1%8A%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
+>01. [Ръководства](https://github.com/IrinaSpasova/Publishing-Placeholder#%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0)<br>
+>02. [Работна среда](https://github.com/IrinaSpasova/Publishing-Placeholder#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B0-%D1%81%D1%80%D0%B5%D0%B4%D0%B0)<br>
+>03. [Допълнителна информация](https://github.com/IrinaSpasova/Publishing-Placeholder#%D0%B4%D0%BE%D0%BF%D1%8A%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
 
 
 
-## Ръководства
+## 01. Ръководства
 >&#x1F4D7; [Начало](https://docs.podkrepi.bg/general/?cacheBust=1634744774411)<br>
 >##### Това е основната документация на проекта Подкрепи.бг и служи за организация на потоците от информация.
 >&#x1F4D8; [Onboarding](https://docs.google.com/document/d/1aRMfnVBzc4xd3wV3-B_jsx3ykiBvmqFO5VhnafRH55o/edit)<br>
@@ -23,7 +23,7 @@
 
 ###### обратно в [съдържанието](https://github.com/IrinaSpasova/Publishing-Placeholder/blob/main/README.md#%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 
-## Работна среда 
+## 02. Работна среда 
 
 >&#x1F4CB; [Фигма](https://www.figma.com/file/MmvFKzUv6yE5U2wrOpWtwS/Podkrepi.bg?node-id=0%3A7243)<br>
 >##### Място за творчество. С удоволствие ще обсъдим всякакви съвети и идеи.
@@ -34,7 +34,7 @@
 
 ###### обратно в [съдържанието](https://github.com/IrinaSpasova/Publishing-Placeholder/blob/main/README.md#%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 
-## Допълнителна информация
+## 03. Допълнителна информация
 
 >&#x1F4C2; [Работни файлове](https://drive.google.com/drive/u/0/folders/1JA5rbdHkp2x8VuZN6jlIzKRHPnncGGYh)<br>
 >&#x1F4C3; [Шрифтове](https://drive.google.com/drive/u/0/folders/1Op8J3sXBYbHDucmtq1a_LG0KXxyt1CTO)<br>
