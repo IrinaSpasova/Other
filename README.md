@@ -7,18 +7,18 @@
 
 ## Съдържание:
 
-1. [Ръководства](https://github.com/IrinaSpasova/Publishing-Placeholder#%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0)<br>
-2. [Работна среда](https://github.com/IrinaSpasova/Publishing-Placeholder#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B0-%D1%81%D1%80%D0%B5%D0%B4%D0%B0)<br>
-3. [Допълнителна информация](https://github.com/IrinaSpasova/Publishing-Placeholder#%D0%B4%D0%BE%D0%BF%D1%8A%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
+>1. [Ръководства](https://github.com/IrinaSpasova/Publishing-Placeholder#%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0)<br>
+>2. [Работна среда](https://github.com/IrinaSpasova/Publishing-Placeholder#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B0-%D1%81%D1%80%D0%B5%D0%B4%D0%B0)<br>
+>3. [Допълнителна информация](https://github.com/IrinaSpasova/Publishing-Placeholder#%D0%B4%D0%BE%D0%BF%D1%8A%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
 
 
 
 ## Ръководства
-> &#x1F4D7; [Начало](https://docs.podkrepi.bg/general/?cacheBust=1634744774411)<br>
+>&#x1F4D7; [Начало](https://docs.podkrepi.bg/general/?cacheBust=1634744774411)<br>
 >##### Това е основната документация на проекта Подкрепи.бг и служи за организация на потоците от информация.
-> &#x1F4D8; [Onboarding](https://docs.google.com/document/d/1aRMfnVBzc4xd3wV3-B_jsx3ykiBvmqFO5VhnafRH55o/edit)<br>
+>&#x1F4D8; [Onboarding](https://docs.google.com/document/d/1aRMfnVBzc4xd3wV3-B_jsx3ykiBvmqFO5VhnafRH55o/edit)<br>
 >##### Общ поглед върху работата по проекта и много допълнителна полезна информация. 
-> &#x1F4D9; [Протоколи от срещите](https://drive.google.com/drive/u/0/folders/1No71LVapl78v2_md9u6vcmWArCJ3UApb)<br>
+>&#x1F4D9; [Протоколи от срещите](https://drive.google.com/drive/u/0/folders/1No71LVapl78v2_md9u6vcmWArCJ3UApb)<br>
 >##### Тук може да намерите информация за взетите решения, ако сте пропуснали някоя от срещите.
 
 ###### обратно в [съдържанието](https://github.com/IrinaSpasova/Publishing-Placeholder/blob/main/README.md#%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
