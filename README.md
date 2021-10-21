@@ -39,7 +39,9 @@
 >&#x1F4C2; [Работни файлове](https://drive.google.com/drive/u/0/folders/1JA5rbdHkp2x8VuZN6jlIzKRHPnncGGYh)<br>
 >&#x1F4C3; [Шрифтове](https://drive.google.com/drive/u/0/folders/1Op8J3sXBYbHDucmtq1a_LG0KXxyt1CTO)<br>
 >&#x1F3A8; [Снимки](https://docs.google.com/document/d/1fcksI-upYXEgZEeC0Ru4wPZ_oBFn8mBcSFAYpVDl_m4/edit)<br>
->&#x1F4C5; Срещи на екипа: 
+>&#x1F4C5; [Срещи на екипа](https://discord.com/channels/778984868146577458/778987971440672788): 
+>Всяка събота от 18:00
+>Заб. Канала за срещи няма директен линк - влезте в дискорд  (под dropdown среши има звуков канал) / дизайн.
 
 ###### обратно в [съдържанието](https://github.com/IrinaSpasova/Publishing-Placeholder/blob/main/README.md#%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 
