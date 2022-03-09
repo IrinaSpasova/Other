@@ -1,0 +1,14 @@
+{
+  "name": "module-04-07",
+  "version": "1.0.0",
+  "description": "Pluralsight - Developing Websites for Accessibility: Getting Started",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "devDependencies": {
+    "serve": "^11.2.0",
+    "grunt": "^1.0.4",
+    "grunt-axe-webdriver": "^1.1.0"
+  }
+}
