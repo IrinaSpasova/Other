@@ -1,0 +1,33 @@
+.grid {
+    /*scss nesting ( BEM)   & is for grid   https://youtu.be/jfMHA8SqUL4?t=3790 */
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    gap: 40px;
+    //max-width: 1000px; better way- with width: min() (calculates the appropriate width according the screen);
+    width: min();
+    //max-width: 1000px; prevents super wide texts
+    // margin:0 auto; - center everything
+    // BETTER SOLUTION margin-inline ( will affect only left and right margins and we will not affect top and bottom. In addition content left to right for western and right to left  for eastern readers*/
+    margin-inline: auto; /* we can achieve this effect in <body>: display grid/flex ; just-con:center if we do not want to use this way*/
+    // important: https://youtu.be/jfMHA8SqUL4?t=5117
+
+    @media (min-width: 900px) {
+        /*and (max-width:...) if we do this- hav to define media for larger devices*/
+        grid-template-columns: 2fr 1fr;
+        grid-template-rows: auto;
+    }
+
+    &__main,
+    &__sidebar {
+        padding: 40px;
+    }
+
+    &__main {
+        background-color: hsl(240, 100%, 27%);
+    }
+
+    &__sidebar {
+        background-color: hsl(300, 96%, 28%);
+    }
+}
