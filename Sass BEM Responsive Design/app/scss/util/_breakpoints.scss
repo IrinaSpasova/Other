@@ -1,0 +1,29 @@
+// min- mobile-700px, tablets- 900px, desktop-1440px
+//rem can cause problems
+//scss maps:
+
+$breakpoints-up:(
+    "medium": 43.75em,// ===700px (700/16=43.75)
+    "large": 56.25em, // ===900px (900/16=56.25)
+    "xlarge":90em,     // ===1440px (1440/16=90)
+);
+
+// max- mobile-699.98px, tablets- 899.98px, desktop-1439.98px
+
+$breakpoints-down:(
+    'small':43.74875em,
+    'medium':56.24875em,
+    'large':89.99875em,
+);
+
+@mixin breakpoint($size){
+    @media (min-width: map-get($breakpoints-up, $size)){
+        @content;
+    }
+}
+
+@mixin breakpoint-down($size){
+    @media (max-width: map-get($breakpoints-down, $size)){
+        @content;
+    }
+}

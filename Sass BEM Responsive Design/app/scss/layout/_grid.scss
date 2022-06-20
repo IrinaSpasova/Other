@@ -1,30 +1,17 @@
+@use '../util' as u;
+
 .grid {
-    /*scss nesting ( BEM)   & is for grid   https://youtu.be/jfMHA8SqUL4?t=3790 */
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: auto auto;
     gap: 40px;
-    //max-width: 1000px; better way- with width: min() (calculates the appropriate width according the screen);
     width: min(100% - 40px, 1000px);
-    //max-width: 1000px; prevents super wide texts
-    // margin:0 auto; - center everything
-    // BETTER SOLUTION margin-inline ( will affect only left and right margins and we will not affect top and bottom. In addition content left to right for western and right to left  for eastern readers*/
-    margin-inline: auto; /* we can achieve this effect in <body>: display grid/flex ; just-con:center if we do not want to use this way*/
-    // important: https://youtu.be/jfMHA8SqUL4?t=5117
-    
+    margin-inline: auto;
 
-    @media (min-width: 900px) { //mobile-first approach. (max-width is desktop first)
-        /*and (max-width:...) if we do this- hav to define media for larger devices*/
+    @include u.breakpoint(large) {
         grid-template-columns: 2fr 1fr;
         grid-template-rows: auto;
     }
-
-   /* @media (max-width:899px){
- if we do not want to use in grid: padding-left: 20px; padding-right: 20px; and to explicitly to say that in desktop padding-left: 0; padding-right: 0; we kan make this media.
-        padding-left: 20px;
-        padding-right: 20px;
-        BETTER WAY https://youtu.be/jfMHA8SqUL4?t=5586  width: min(100%, 1000px); => width: min(100% - 40px, 1000px); !space around "-" is important
-    }*/
 
     &__main,
     &__sidebar {
@@ -36,6 +23,24 @@
     }
 
     &__sidebar {
-        background-color: hsl(300, 96%, 28%);
+        background-color: hsl(300, 96%, 28%); 
+       
+       /* 
+       !!!! text-align: center;
+        @include u.breakpoint(large){
+            text-align: left;
+        }
+        or: 
+
+        @media (max-width: 56.25em) {
+            text-align: center;
+        }
+        or:*/
+
+        @include u.breakpoint-down(medium){
+            text-align: center;
+        }
+
+        
     }
 }
