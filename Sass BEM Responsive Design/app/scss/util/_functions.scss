@@ -1,0 +1,39 @@
+//https://sass-lang.com/documentation/modules/math
+@use'sass:math';
+
+// for font (px to rem):
+//throw an error if the parameter has a unit (px for example)
+@function rem($pixel) {
+
+    //if $pixel has a unit-throw error:
+    @if math.is-unitless($pixel) {
+        // divide $pixel by 16 to return rem:
+        @return math.div($pixel, 16)+rem; //use: font-size: rem(30); instead font-size: 30px;
+
+    }
+
+    @else {
+        @error "Don\'t use units when using rem() function, only numbers";
+    }
+
+    //Important!- mistakes: https://youtu.be/jfMHA8SqUL4?t=10052
+}
+
+
+
+// for media (px to em):
+//throw an error if the parameter has a unit (px for example)
+@function em($pixel) {
+
+    //if $pixel has a unit-throw error:
+    @if math.is-unitless($pixel) {
+        // divide $pixel by 16 to return rem:
+        @return math.div($pixel, 16)+em; 
+    }
+
+    @else {
+        @error "Don\'t use units when using em() function, only numbers";
+    }
+    //https://youtu.be/jfMHA8SqUL4?t=10762
+}
+
