@@ -2,7 +2,8 @@
 
 html {
     box-sizing: border-box;
-    font-size: 100%;
+   // font-size: 62.5%; https://youtu.be/jfMHA8SqUL4?t=9262  - explanation - 16(basic browser font size)/0.625 =10px (ease the math)
+   font-size: 100%;
 }
 
 *,

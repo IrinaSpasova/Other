@@ -1,14 +1,61 @@
-h1,h2,h3{
+@use'../util' as u;
+
+h1,
+h2,
+h3 {
     font-weight: 700;
     line-height: 1.2;
     margin-top: 0;
 }
 
-p{
-    margin-top: 0;
-    line-height: 1.4;
+// starts from mobile to larger screens
+h1 {
+    /* font-size: 28px;  or transform this to vw %  (28px / 375 (small size) = 7.5vw:
+
+    font-size: 7.5vw;
+
+    if ve use vw there iz no need to use this:
+    @include u.breakpoint(medium){
+        font-size: 36px;
+    }
+
+    @include u.breakpoint(large){
+        font-size: 42px;
+    } 
+    */
+
+
+    /*better way, because the text may become very large:
+    font-size: calc(16px + 2vw);
+    test font-size: 7.5vw;*/
+
+    /*best, before changing the pixel:
+    font-size: clamp(28px, 16px + 2vw, 40px); starting size, growing and max final value*/
+
+    //before function
+   // font-size: clamp(1.75rem, 1rem + 2vw, 2.5rem); 28px/16=1.75, 40/16==2.5
+   //after function
+   font-size: clamp(u.rem(28), u.rem(16) + 2vw, u.rem(40));
+
+
+    //Important: use vw only with relative units
 }
 
-a, a:visited, a:active{
+h2{
+   // font-size: clamp(1.375rem, 0.875rem + 2vw,2.25rem );
+    font-size:(u.rem(22), u.rem(14) + 2vw, u.rem(36))
+}
+
+p {
+    margin-top: 0;
+    line-height: 1.4;
+    //font-size: 1rem;
+    font-size: u.rem(16);
+}
+
+a,
+a:visited,
+a:active {
     text-decoration: none;
 }
+
