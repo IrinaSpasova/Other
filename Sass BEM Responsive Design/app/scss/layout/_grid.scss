@@ -1,12 +1,16 @@
 @use '../util' as u;
 
+//%-placeholder
+//%widget {}
+
+
 .grid {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: auto auto;
-   /* before rem function-> gap: 40px; */
+    /* before rem function-> gap: 40px; */
     gap: u.rem(40);
-    width: min(100% - u.rem(40), 1000px);
+    width: min(100% - u.rem(40), u.rem(1000));
     margin-inline: auto;
 
     @include u.breakpoint(large) {
@@ -22,21 +26,21 @@
 
     &__main {
         background-color: hsl(240, 100%, 27%);
-
-// THE ORDER IS IMPORTANT  (CSS- when two things are equal as importance- second is executed) !!!!!!!!!!!!!!!!!
-        @include u.breakpoint(medium){
+       
+        // THE ORDER IS IMPORTANT  (CSS- when two things are equal as importance- second is executed) !!!!!!!!!!!!!!!!!
+        @include u.breakpoint(medium) {
             background-color: green;
         }
 
-        @include u.breakpoint(large){
+        @include u.breakpoint(large) {
             background-color: orange;
         }
     }
 
     &__sidebar {
-        background-color: hsl(300, 96%, 28%); 
-       
-       /* 
+        /* background-color: hsl(300, 96%, 28%); */
+
+        /* 
        !!!! text-align: center;
         @include u.breakpoint(large){
             text-align: left;
@@ -48,14 +52,51 @@
         }
         or:*/
 
-        @include u.breakpoint-down(medium){
+        @include u.breakpoint-down(medium) {
             text-align: center;
         }
 
-        @include u.breakpoint-down(small){
+        @include u.breakpoint-down(small) {
             text-align: right;
         }
-
-       
     }
+
+    &__widget {
+        //https://youtu.be/jfMHA8SqUL4?t=12957
+
+        padding: u.rem(16);
+        // & - https://youtu.be/jfMHA8SqUL4?t=13144
+        &.magenta{
+            
+            background: hsl(300, 96%, 28%);
+        }
+        &.green {
+            
+            background-color: rgb(22, 185, 22);
+        }
+
+        //You can move this helpers in color file ( without &!!!) https://youtu.be/jfMHA8SqUL4?t=13311
+    }
+
+    // ANOTHER WAY:
+      //&__widget {
+        // $widget:&; //https://youtu.be/jfMHA8SqUL4?t=12568
+        // background: hsl(300, 96%, 28%); https://youtu.be/jfMHA8SqUL4?t=12814
+        /* NOT background-color*/
+        /*NOTE: space between widget come from p tag https://youtu.be/jfMHA8SqUL4?t=11862*/
+        //how to remove margin collapse https://youtu.be/jfMHA8SqUL4?t=12151 
+        //padding: u.rem(16); https://youtu.be/jfMHA8SqUL4?t=12742
+
+       // &--magenta{
+        //    @extend %widget;
+        //    background: hsl(300, 96%, 28%);
+       // }
+      //  &--green {
+       //     @extend %widget;
+            // @extend .grid__widget;  remove first  grid__widget in html!  https://www.youtube.com/watch?v=jfMHA8SqUL4&t=11862s  or
+            // @extend #{$widget}; // https://youtu.be/jfMHA8SqUL4?t=12605
+           // background-color: rgb(22, 185, 22);
+       // }
+      // }
+
 }
